@@ -1,3 +1,11 @@
+"""Sistema de Diagnostico Basado en Reglas
+Valeria Arciga Valencia, Abril Álvarez Mercado
+
+Este sistema utiliza el enfoque basado en reglas y frecuencia de síntomas para realizar un diagnóstico médico preliminar.
+
+VERSION BETA al tratar de implementar sistema de preguntas"""
+
+# Importación de librerías
 import streamlit as st
 import pandas as pd
 
